@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Legolas",
+    "image": "https://bookbumzuky.files.wordpress.com/2018/06/legolas.jpg",
+    "guessed": false
+  },
+  {
+    "id": 2,
+    "name": "Gimli",
+    "image": "https://pbs.twimg.com/profile_images/412732558258892800/snPPFCuJ.jpeg",
+    "guessed": false
+  },
+  {
+    "id": 3,
+    "name": "Aragorn",
+    "image": "https://filmschoolrejects.com/wp-content/uploads/2018/05/aragorn-lord-of-the-rings.jpg",
+    "guessed": false
+  },
+  {
+    "id": 4,
+    "name": "Sam",
+    "image": "http://baltimorepostexaminer.com/wp-content/uploads/2012/02/Samwise-Gamgee.png",
+    "guessed": false
+  },
+  {
+    "id": 5,
+    "name": "Frodo",
+    "image": "https://www.tribute.ca/news/wp-content/uploads/2014/12/frodo.jpg",
+    "guessed": false
+  },
+  {
+    "id": 6,
+    "name": "Pippin",
+    "image": "https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/54455bc9e4b066b22fce4616/1413831626183/",
+    "guessed": false
+  },
+  {
+    "id": 7,
+    "name": "Merry",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--kmTuYKc6--/c_scale,f_auto,fl_progressive,q_80,w_800/q3jta0r8kaknfoup4lio.jpg",
+    "guessed": false
+  },
+  {
+    "id": 8,
+    "name": "Boromir",
+    "image": "https://i.pinimg.com/originals/dc/60/a0/dc60a05a919ecfb1bfc0235e41cd77cc.jpg",
+    "guessed": false
+  },
+  {
+    "id": 9,
+    "name": "Gandalf",
+    "image": "https://i.imgur.com/7qjvKyi.jpg",
+    "guessed": false
+  },
+  {
+    "id": 10,
+    "name": "Saruman",
+    "image": "https://vignette.wikia.nocookie.net/tolkien-films/images/8/84/SarumanTheLOTR.jpg/revision/latest?cb=20170324200825",
+    "guessed": false
+  },
+  {
+    "id": 11,
+    "name": "Gollum",
+    "image": "https://cdn-images-1.medium.com/max/1200/0*yt7Mwvdb8e08xxhk.jpg",
+    "guessed": false
+  },
+  {
+    "id": 12,
+    "name": "Eowyn",
+    "image": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.eorlingas.org%2Felfsheen%2Fthumbs%2Feowyn32.jpg&f=1",
+    "guessed": false
+  }
+]
